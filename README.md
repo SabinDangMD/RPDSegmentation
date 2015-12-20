@@ -7,7 +7,7 @@ This set of MATLAB scripts creates an en face image map of reticular pseudodruse
 - use multi_tif_to_arr('tifname.tif') to load a multipage tiff into MATLAB array structure
 - use extract_enface(mac_cube_arr,slab_size) to generate an RPD en face image
 
-## Componenets
+## Components
 
 - multi_tif_to_arr.m : Convert multi page tiff to matlab array structure
 - flatten_bscan.m : Flatten an OCT B-scan image at the level of the RPE
